@@ -1,2 +1,2 @@
 forge-std/=lib/forge-std/src/
-aave-v3-origin/=lib/aave-v3-origin/src/
+aave-v3-origin/=lib/aave-v3-origin-private/src/
