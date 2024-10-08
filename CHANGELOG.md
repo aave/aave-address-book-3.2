@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.7.1](https://github.com/bgd-labs/aave-address-book/compare/v3.7.0...v3.7.1) (2024-10-08)
+
+
+### Bug Fixes
+
+* previous fixes were for release ci, this one for cron ci ([#626](https://github.com/bgd-labs/aave-address-book/issues/626)) ([1296c81](https://github.com/bgd-labs/aave-address-book/commit/1296c81943aaa0e2b8d602e383abf116fd3b349f))
+
 ## [3.7.0](https://github.com/bgd-labs/aave-address-book/compare/v3.6.0...v3.7.0) (2024-10-08)
 
 
